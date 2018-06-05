@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/vsilin/Documents/School/ECE3A/ECE351/ece351-labs/marks/lab1_marks'
+let g:netrw_dirhist_2='/Users/vsilin/.ssh'
+let g:netrw_dirhist_3='/Users/vsilin/Programming/task-notifier/.git'
+let g:netrw_dirhist_4='/Users/vsilin/Documents/School/ECE4A/ECE454/Assignments'
